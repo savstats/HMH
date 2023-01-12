@@ -1,4 +1,4 @@
-# HMH
+# HMH Assessment
 
 ### To run the code:<br>
 Step 1: Download the HMH.ipynb in the local system.<br>
